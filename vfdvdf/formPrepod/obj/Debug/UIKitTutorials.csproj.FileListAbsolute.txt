@@ -1,0 +1,184 @@
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\bin\Debug\UIKitTutorials.exe.config
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\bin\Debug\UIKitTutorials.exe
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\bin\Debug\UIKitTutorials.pdb
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\UIKitTutorials.csprojAssemblyReference.cache
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\MainWindow.g.cs
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\App.g.cs
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\UIKitTutorials_MarkupCompile.cache
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\UIKitTutorials_MarkupCompile.lref
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\MainWindow.baml
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\UIKitTutorials.g.resources
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\UIKitTutorials.Properties.Resources.resources
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\UIKitTutorials.csproj.GenerateResource.cache
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\UIKitTutorials.csproj.CoreCompileInputs.cache
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\UIKitTutorials.exe
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\UIKitTutorials.pdb
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\App.baml
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\Assets\Icons\Icons.baml
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\Themes\LightTheme.baml
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\Pages\HomePage.g.cs
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\Pages\HomePage.baml
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\Pages\NotesPage.g.cs
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\Pages\PaymentPage.g.cs
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\Pages\SoundsPage.g.cs
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\Pages\NotesPage.baml
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\Pages\PaymentPage.baml
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\Pages\SoundsPage.baml
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\Styles\MainStyle.baml
+F:\download\UIKitTutorials-main\bin\Debug\UIKitTutorials.exe.config
+F:\download\UIKitTutorials-main\bin\Debug\UIKitTutorials.exe
+F:\download\UIKitTutorials-main\bin\Debug\UIKitTutorials.pdb
+F:\download\UIKitTutorials-main\obj\Debug\UIKitTutorials.csprojAssemblyReference.cache
+F:\download\UIKitTutorials-main\obj\Debug\MainWindow.g.cs
+F:\download\UIKitTutorials-main\obj\Debug\Pages\HomePage.g.cs
+F:\download\UIKitTutorials-main\obj\Debug\Pages\NotesPage.g.cs
+F:\download\UIKitTutorials-main\obj\Debug\Pages\PaymentPage.g.cs
+F:\download\UIKitTutorials-main\obj\Debug\Pages\SoundsPage.g.cs
+F:\download\UIKitTutorials-main\obj\Debug\App.g.cs
+F:\download\UIKitTutorials-main\obj\Debug\UIKitTutorials_MarkupCompile.cache
+F:\download\UIKitTutorials-main\obj\Debug\UIKitTutorials_MarkupCompile.lref
+F:\download\UIKitTutorials-main\obj\Debug\App.baml
+F:\download\UIKitTutorials-main\obj\Debug\Assets\Icons\Icons.baml
+F:\download\UIKitTutorials-main\obj\Debug\MainWindow.baml
+F:\download\UIKitTutorials-main\obj\Debug\Pages\HomePage.baml
+F:\download\UIKitTutorials-main\obj\Debug\Pages\NotesPage.baml
+F:\download\UIKitTutorials-main\obj\Debug\Pages\PaymentPage.baml
+F:\download\UIKitTutorials-main\obj\Debug\Pages\SoundsPage.baml
+F:\download\UIKitTutorials-main\obj\Debug\Styles\MainStyle.baml
+F:\download\UIKitTutorials-main\obj\Debug\Themes\LightTheme.baml
+F:\download\UIKitTutorials-main\obj\Debug\UIKitTutorials.g.resources
+F:\download\UIKitTutorials-main\obj\Debug\UIKitTutorials.Properties.Resources.resources
+F:\download\UIKitTutorials-main\obj\Debug\UIKitTutorials.csproj.GenerateResource.cache
+F:\download\UIKitTutorials-main\obj\Debug\UIKitTutorials.csproj.CoreCompileInputs.cache
+F:\download\UIKitTutorials-main\obj\Debug\UIKitTutorials.exe
+F:\download\UIKitTutorials-main\obj\Debug\UIKitTutorials.pdb
+C:\Users\Maxim\Desktop\проекты\project wpf\UIKitTutorials-main\bin\Debug\UIKitTutorials.exe.config
+C:\Users\Maxim\Desktop\проекты\project wpf\UIKitTutorials-main\bin\Debug\UIKitTutorials.exe
+C:\Users\Maxim\Desktop\проекты\project wpf\UIKitTutorials-main\bin\Debug\UIKitTutorials.pdb
+C:\Users\Maxim\Desktop\проекты\project wpf\UIKitTutorials-main\obj\Debug\UIKitTutorials.csproj.AssemblyReference.cache
+C:\Users\Maxim\Desktop\проекты\project wpf\UIKitTutorials-main\obj\Debug\MainWindow.g.cs
+C:\Users\Maxim\Desktop\проекты\project wpf\UIKitTutorials-main\obj\Debug\Pages\HomePage.g.cs
+C:\Users\Maxim\Desktop\проекты\project wpf\UIKitTutorials-main\obj\Debug\Pages\NotesPage.g.cs
+C:\Users\Maxim\Desktop\проекты\project wpf\UIKitTutorials-main\obj\Debug\Pages\PaymentPage.g.cs
+C:\Users\Maxim\Desktop\проекты\project wpf\UIKitTutorials-main\obj\Debug\Pages\SoundsPage.g.cs
+C:\Users\Maxim\Desktop\проекты\project wpf\UIKitTutorials-main\obj\Debug\App.g.cs
+C:\Users\Maxim\Desktop\проекты\project wpf\UIKitTutorials-main\obj\Debug\UIKitTutorials_MarkupCompile.cache
+C:\Users\Maxim\Desktop\проекты\project wpf\UIKitTutorials-main\obj\Debug\UIKitTutorials_MarkupCompile.lref
+C:\Users\Maxim\Desktop\проекты\project wpf\UIKitTutorials-main\obj\Debug\App.baml
+C:\Users\Maxim\Desktop\проекты\project wpf\UIKitTutorials-main\obj\Debug\Assets\Icons\Icons.baml
+C:\Users\Maxim\Desktop\проекты\project wpf\UIKitTutorials-main\obj\Debug\MainWindow.baml
+C:\Users\Maxim\Desktop\проекты\project wpf\UIKitTutorials-main\obj\Debug\Pages\HomePage.baml
+C:\Users\Maxim\Desktop\проекты\project wpf\UIKitTutorials-main\obj\Debug\Pages\NotesPage.baml
+C:\Users\Maxim\Desktop\проекты\project wpf\UIKitTutorials-main\obj\Debug\Pages\PaymentPage.baml
+C:\Users\Maxim\Desktop\проекты\project wpf\UIKitTutorials-main\obj\Debug\Pages\SoundsPage.baml
+C:\Users\Maxim\Desktop\проекты\project wpf\UIKitTutorials-main\obj\Debug\Styles\MainStyle.baml
+C:\Users\Maxim\Desktop\проекты\project wpf\UIKitTutorials-main\obj\Debug\Themes\LightTheme.baml
+C:\Users\Maxim\Desktop\проекты\project wpf\UIKitTutorials-main\obj\Debug\UIKitTutorials.g.resources
+C:\Users\Maxim\Desktop\проекты\project wpf\UIKitTutorials-main\obj\Debug\UIKitTutorials.Properties.Resources.resources
+C:\Users\Maxim\Desktop\проекты\project wpf\UIKitTutorials-main\obj\Debug\UIKitTutorials.csproj.GenerateResource.cache
+C:\Users\Maxim\Desktop\проекты\project wpf\UIKitTutorials-main\obj\Debug\UIKitTutorials.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\проекты\project wpf\UIKitTutorials-main\obj\Debug\UIKitTutorials.exe
+C:\Users\Maxim\Desktop\проекты\project wpf\UIKitTutorials-main\obj\Debug\UIKitTutorials.pdb
+C:\Users\Maxim\Desktop\проекты\project wpf\form prepod\bin\Debug\UIKitTutorials.exe.config
+C:\Users\Maxim\Desktop\проекты\project wpf\form prepod\bin\Debug\UIKitTutorials.exe
+C:\Users\Maxim\Desktop\проекты\project wpf\form prepod\bin\Debug\UIKitTutorials.pdb
+C:\Users\Maxim\Desktop\проекты\project wpf\form prepod\obj\Debug\UIKitTutorials.csproj.AssemblyReference.cache
+C:\Users\Maxim\Desktop\проекты\project wpf\form prepod\obj\Debug\MainWindow.g.cs
+C:\Users\Maxim\Desktop\проекты\project wpf\form prepod\obj\Debug\Pages\HomePage.g.cs
+C:\Users\Maxim\Desktop\проекты\project wpf\form prepod\obj\Debug\Pages\NotesPage.g.cs
+C:\Users\Maxim\Desktop\проекты\project wpf\form prepod\obj\Debug\Pages\PaymentPage.g.cs
+C:\Users\Maxim\Desktop\проекты\project wpf\form prepod\obj\Debug\Pages\SoundsPage.g.cs
+C:\Users\Maxim\Desktop\проекты\project wpf\form prepod\obj\Debug\App.g.cs
+C:\Users\Maxim\Desktop\проекты\project wpf\form prepod\obj\Debug\UIKitTutorials_MarkupCompile.cache
+C:\Users\Maxim\Desktop\проекты\project wpf\form prepod\obj\Debug\UIKitTutorials_MarkupCompile.lref
+C:\Users\Maxim\Desktop\проекты\project wpf\form prepod\obj\Debug\App.baml
+C:\Users\Maxim\Desktop\проекты\project wpf\form prepod\obj\Debug\Assets\Icons\Icons.baml
+C:\Users\Maxim\Desktop\проекты\project wpf\form prepod\obj\Debug\MainWindow.baml
+C:\Users\Maxim\Desktop\проекты\project wpf\form prepod\obj\Debug\Pages\HomePage.baml
+C:\Users\Maxim\Desktop\проекты\project wpf\form prepod\obj\Debug\Pages\NotesPage.baml
+C:\Users\Maxim\Desktop\проекты\project wpf\form prepod\obj\Debug\Pages\PaymentPage.baml
+C:\Users\Maxim\Desktop\проекты\project wpf\form prepod\obj\Debug\Pages\SoundsPage.baml
+C:\Users\Maxim\Desktop\проекты\project wpf\form prepod\obj\Debug\Styles\MainStyle.baml
+C:\Users\Maxim\Desktop\проекты\project wpf\form prepod\obj\Debug\Themes\LightTheme.baml
+C:\Users\Maxim\Desktop\проекты\project wpf\form prepod\obj\Debug\UIKitTutorials.g.resources
+C:\Users\Maxim\Desktop\проекты\project wpf\form prepod\obj\Debug\UIKitTutorials.Properties.Resources.resources
+C:\Users\Maxim\Desktop\проекты\project wpf\form prepod\obj\Debug\UIKitTutorials.csproj.GenerateResource.cache
+C:\Users\Maxim\Desktop\проекты\project wpf\form prepod\obj\Debug\UIKitTutorials.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\проекты\project wpf\form prepod\obj\Debug\UIKitTutorials.exe
+C:\Users\Maxim\Desktop\проекты\project wpf\form prepod\obj\Debug\UIKitTutorials.pdb
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\form prepod\bin\Debug\UIKitTutorials.exe.config
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\form prepod\bin\Debug\UIKitTutorials.exe
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\form prepod\bin\Debug\UIKitTutorials.pdb
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\form prepod\obj\Debug\UIKitTutorials.csproj.AssemblyReference.cache
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\form prepod\obj\Debug\MainWindow.g.cs
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\form prepod\obj\Debug\Pages\HomePage.g.cs
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\form prepod\obj\Debug\Pages\NotesPage.g.cs
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\form prepod\obj\Debug\Pages\PaymentPage.g.cs
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\form prepod\obj\Debug\Pages\SoundsPage.g.cs
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\form prepod\obj\Debug\App.g.cs
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\form prepod\obj\Debug\UIKitTutorials_MarkupCompile.cache
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\form prepod\obj\Debug\UIKitTutorials_MarkupCompile.lref
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\form prepod\obj\Debug\App.baml
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\form prepod\obj\Debug\Assets\Icons\Icons.baml
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\form prepod\obj\Debug\MainWindow.baml
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\form prepod\obj\Debug\Pages\HomePage.baml
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\form prepod\obj\Debug\Pages\NotesPage.baml
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\form prepod\obj\Debug\Pages\PaymentPage.baml
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\form prepod\obj\Debug\Pages\SoundsPage.baml
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\form prepod\obj\Debug\Styles\MainStyle.baml
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\form prepod\obj\Debug\Themes\LightTheme.baml
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\form prepod\obj\Debug\UIKitTutorials.g.resources
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\form prepod\obj\Debug\UIKitTutorials.Properties.Resources.resources
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\form prepod\obj\Debug\UIKitTutorials.csproj.GenerateResource.cache
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\form prepod\obj\Debug\UIKitTutorials.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\form prepod\obj\Debug\UIKitTutorials.exe
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\form prepod\obj\Debug\UIKitTutorials.pdb
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\bin\Debug\UIKitTutorials.exe.config
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\bin\Debug\UIKitTutorials.exe
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\bin\Debug\UIKitTutorials.pdb
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\bin\Debug\Google.Protobuf.dll
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\bin\Debug\MySql.Data.dll
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\bin\Debug\System.Buffers.dll
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\bin\Debug\System.Memory.dll
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\bin\Debug\ZstdNet.dll
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\bin\Debug\Google.Protobuf.pdb
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\bin\Debug\Google.Protobuf.xml
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\bin\Debug\MySql.Data.xml
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\bin\Debug\System.Buffers.xml
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\bin\Debug\System.Memory.xml
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\obj\Debug\MainWindow.g.cs
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\obj\Debug\Pages\HomePage.g.cs
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\obj\Debug\Pages\NotesPage.g.cs
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\obj\Debug\Pages\PaymentPage.g.cs
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\obj\Debug\Pages\SoundsPage.g.cs
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\obj\Debug\App.g.cs
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\obj\Debug\UIKitTutorials_MarkupCompile.cache
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\obj\Debug\UIKitTutorials_MarkupCompile.lref
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\obj\Debug\App.baml
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\obj\Debug\Assets\Icons\Icons.baml
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\obj\Debug\MainWindow.baml
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\obj\Debug\Pages\HomePage.baml
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\obj\Debug\Pages\NotesPage.baml
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\obj\Debug\Pages\PaymentPage.baml
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\obj\Debug\Pages\SoundsPage.baml
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\obj\Debug\Styles\MainStyle.baml
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\obj\Debug\Themes\LightTheme.baml
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\obj\Debug\UIKitTutorials.g.resources
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\obj\Debug\UIKitTutorials.Properties.Resources.resources
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\obj\Debug\UIKitTutorials.csproj.GenerateResource.cache
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\obj\Debug\UIKitTutorials.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\obj\Debug\UIKitTutorials.csproj.CopyComplete
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\obj\Debug\UIKitTutorials.exe
+C:\Users\Maxim\Desktop\проекты\project wpf\vfdvdf\formPrepod\obj\Debug\UIKitTutorials.pdb
