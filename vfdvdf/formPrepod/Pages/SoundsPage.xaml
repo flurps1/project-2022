@@ -5,132 +5,133 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:UIKitTutorials.Pages"
       mc:Ignorable="d" 
-      d:DesignHeight="450" d:DesignWidth="800"
+      d:DesignHeight="695.095" d:DesignWidth="800"
       Title="SoundsPage">
 
     <Border CornerRadius="5" Background="{DynamicResource SecundaryBackgroundColor}" Margin="0,0,0,-97">
-
-        <StackPanel>
-            <Label Content="FAQ" Foreground="Black" FontSize="50" FontWeight="Bold" VerticalAlignment="Center" HorizontalAlignment="Center"/>
-            <StackPanel Orientation="Horizontal">
-                <Border Width="300" Height="200" BorderBrush="{DynamicResource PrimaryBlueColor}" Background="{DynamicResource PrimaryGrayColor}" BorderThickness="2" CornerRadius="10" Margin="10,0,40,0">
-                    <Grid>
-                        <StackPanel>
-                            <TextBlock/>
-                            <TextBlock Text="Возможно мы&#x0a;уже знаем что делать!"
+        <ScrollViewer VerticalScrollBarVisibility="Visible">
+            <StackPanel>
+                <Label Content="FAQ" Foreground="Black" FontSize="50" FontWeight="Bold" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                <StackPanel Orientation="Horizontal">
+                    <Border Width="315" Height="200" BorderBrush="{DynamicResource PrimaryBlueColor}" Background="{DynamicResource PrimaryGrayColor}" BorderThickness="2" CornerRadius="10" Margin="10,0,40,0">
+                        <Grid>
+                            <StackPanel>
+                                <TextBlock/>
+                                <TextBlock Text="Возможно мы&#x0a;уже знаем что делать!"
                                        Foreground="black"
                                        FontSize="22"
                                        Margin="20,10, 10,0" Height="66">
-                            </TextBlock>
-                            <TextBlock Text="Прочтите раздел FAQ."
+                                </TextBlock>
+                                <TextBlock Text="Прочтите раздел FAQ."
                                        Foreground="black"
                                        FontSize="15"
                                        Margin="20,10, 10,0">
-                            </TextBlock>
-                        </StackPanel>
-                    </Grid>
-                    
-                    
-                </Border>
-                <Border Width="200" Height="200" BorderBrush="{DynamicResource PrimaryBlueColor}" Background="{DynamicResource PrimaryGrayColor}" BorderThickness="2" CornerRadius="10" Margin="10,0,10,0" >
-                    <Grid>
-                        <StackPanel>
-                            <TextBlock/>
-                            <TextBlock Text="Не включается&#x0a;компьютер"
+                                </TextBlock>
+                            </StackPanel>
+                        </Grid>
+
+
+                    </Border>
+                    <Border Width="249" Height="200" BorderBrush="{DynamicResource PrimaryBlueColor}" Background="{DynamicResource PrimaryGrayColor}" BorderThickness="2" CornerRadius="10" Margin="10,0,10,0" >
+                        <Grid>
+                            <StackPanel Margin="0,0,-38,0">
+                                <TextBlock/>
+                                <TextBlock Text="Не включается&#x0a;компьютер"
                                        Foreground="black"
                                        FontSize="18"
                                        Margin="20,10, 10,0" Height="66">
-                            </TextBlock>
-                            <TextBlock Text="Проверьте включено&#x0a;ли питание!"
+                                </TextBlock>
+                                <TextBlock Text="Проверьте включено&#x0a;ли питание!"
                                        Foreground="black"
                                        FontSize="13"
                                        Margin="20,10, 10,0">
-                            </TextBlock>
-                        </StackPanel>
-                    </Grid>
+                                </TextBlock>
+                            </StackPanel>
+                        </Grid>
 
 
-                </Border>
-                <Border Width="200" Height="200" BorderBrush="{DynamicResource PrimaryBlueColor}" Background="{DynamicResource PrimaryGrayColor}" BorderThickness="2" CornerRadius="10" Margin="10,0,10,0" >
-                    <Grid>
-                        <StackPanel>
-                            <TextBlock/>
-                            <TextBlock Text="Не включается&#x0a;компьютер"
+                    </Border>
+                    <Border Width="231" Height="200" BorderBrush="{DynamicResource PrimaryBlueColor}" Background="{DynamicResource PrimaryGrayColor}" BorderThickness="2" CornerRadius="10" Margin="10,0,10,0" >
+                        <Grid>
+                            <StackPanel>
+                                <TextBlock/>
+                                <TextBlock Text="Не включается&#xA;компьютер"
                                        Foreground="black"
                                        FontSize="18"
-                                       Margin="20,10, 10,0" Height="66">
-                            </TextBlock>
-                            <TextBlock Text="Проверьте включено&#x0a;ли питание!"
+                                       Margin="20,10, 10,0" Height="66"/>
+                                <TextBlock Text="Проверьте включено&#xA;ли питание!"
                                        Foreground="black"
                                        FontSize="13"
-                                       Margin="20,10, 10,0">
-                            </TextBlock>
-                        </StackPanel>
-                    </Grid>
+                                       Margin="20,10, 10,0"/>
+                            </StackPanel>
+                        </Grid>
 
 
-                </Border>
-            </StackPanel>
-            <StackPanel Orientation="Horizontal" Margin="0,20,0,0">
-                <Border Width="300" Height="200" BorderBrush="{DynamicResource PrimaryBlueColor}" Background="{DynamicResource PrimaryGrayColor}" BorderThickness="2" CornerRadius="10" Margin="10,0,40,0">
-                    <Grid>
-                        <StackPanel>
-                            <TextBlock/>
-                            <TextBlock Text="Возможно мы&#x0a;уже знаем что делать!"
+                    </Border>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="0,20,0,0">
+                    <Border Width="315" Height="200" BorderBrush="{DynamicResource PrimaryBlueColor}" Background="{DynamicResource PrimaryGrayColor}" BorderThickness="2" CornerRadius="10" Margin="10,0,40,0">
+                        <Grid>
+                            <StackPanel>
+                                <TextBlock/>
+                                <TextBlock Text="Возможно мы&#x0a;уже знаем что делать!"
                                        Foreground="black"
                                        FontSize="22"
                                        Margin="20,10, 10,0" Height="66">
-                            </TextBlock>
-                            <TextBlock Text="Прочтите раздел FAQ."
+                                </TextBlock>
+                                <TextBlock Text="Прочтите раздел FAQ."
                                        Foreground="black"
                                        FontSize="15"
                                        Margin="20,10, 10,0">
-                            </TextBlock>
-                        </StackPanel>
-                    </Grid>
+                                </TextBlock>
+                            </StackPanel>
+                        </Grid>
 
 
-                </Border>
-                <Border Width="200" Height="200" BorderBrush="{DynamicResource PrimaryBlueColor}" Background="{DynamicResource PrimaryGrayColor}" BorderThickness="2" CornerRadius="10" Margin="10,0,10,0" >
-                    <Grid>
-                        <StackPanel>
-                            <TextBlock/>
-                            <TextBlock Text="Не включается&#x0a;компьютер"
+                    </Border>
+                    <Border Width="252" Height="200" BorderBrush="{DynamicResource PrimaryBlueColor}" Background="{DynamicResource PrimaryGrayColor}" BorderThickness="2" CornerRadius="10" Margin="10,0,10,0" >
+                        <Grid>
+                            <StackPanel Margin="0,0,-0.2,0">
+                                <TextBlock/>
+                                <TextBlock Text="Не включается&#x0a;компьютер"
                                        Foreground="black"
                                        FontSize="18"
                                        Margin="20,10, 10,0" Height="66">
-                            </TextBlock>
-                            <TextBlock Text="Проверьте включено&#x0a;ли питание!"
+                                </TextBlock>
+                                <TextBlock Text="Проверьте включено&#x0a;ли питание!"
                                        Foreground="black"
                                        FontSize="13"
                                        Margin="20,10, 10,0">
-                            </TextBlock>
-                        </StackPanel>
-                    </Grid>
+                                </TextBlock>
+                            </StackPanel>
+                        </Grid>
 
 
-                </Border>
-                <Border Width="200" Height="200" BorderBrush="{DynamicResource PrimaryBlueColor}" Background="{DynamicResource PrimaryGrayColor}" BorderThickness="2" CornerRadius="10" Margin="10,0,10,0" >
-                    <Grid>
-                        <StackPanel>
-                            <TextBlock/>
-                            <TextBlock Text="Не включается&#x0a;компьютер"
+                    </Border>
+                    <Border Width="233" Height="200" BorderBrush="{DynamicResource PrimaryBlueColor}" Background="{DynamicResource PrimaryGrayColor}" BorderThickness="2" CornerRadius="10" Margin="10,0,10,0" >
+                        <Grid>
+                            <StackPanel Margin="0,0,-19,0">
+                                <TextBlock/>
+                                <TextBlock Text="Не включается&#x0a;компьютер"
                                        Foreground="black"
                                        FontSize="18"
                                        Margin="20,10, 10,0" Height="66">
-                            </TextBlock>
-                            <TextBlock Text="Проверьте включено&#x0a;ли питание!"
+                                </TextBlock>
+                                <TextBlock Text="Проверьте включено&#x0a;ли питание!"
                                        Foreground="black"
                                        FontSize="13"
                                        Margin="20,10, 10,0">
-                            </TextBlock>
-                        </StackPanel>
-                    </Grid>
+                                </TextBlock>
+                            </StackPanel>
+                        </Grid>
 
 
-                </Border>
+                    </Border>
+                </StackPanel>
+
+
+
             </StackPanel>
-
-        </StackPanel>
+        </ScrollViewer>
     </Border>
 </Page>

@@ -29,49 +29,6 @@ namespace Admin_project.Pages
             InitializeComponent();
 
         }
-        
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            
-        }
-
-        private void richbox1_MouseEnter(object sender, MouseEventArgs e)
-        {
-        }
-
-        private void richbox1_MouseLeave(object sender, MouseEventArgs e)
-        {
-        }
-
-        private void richbox1_GotFocus(object sender, RoutedEventArgs e)
-        {
-           
-
-        }
-
-        private void richbox1_LostFocus(object sender, RoutedEventArgs e)
-        {
-            
-        }
-
-        private void DataGrid_SelectionChanged(object sender, SelectionChangedEventArgs e)
-        {
-            
-            
-               
-            
-        }
-
-        private void DataGrid_Loaded(object sender, RoutedEventArgs e)
-        {
-      
-
-        }
-
-        private void Grid_Loaded(object sender, RoutedEventArgs e)
-        {
-            
-        }
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
@@ -88,20 +45,6 @@ namespace Admin_project.Pages
             }
         }
 
-        private void Button_Click_2(object sender, RoutedEventArgs e)
-        {
-           
-        }
-
-        private void ListView_SelectionChanged(object sender, SelectionChangedEventArgs e)
-        {
-            
-        }
-        private void deleteRow()
-        {
-           
-
-        }
 
 
         private void DtnDel_Click_1(object sender, RoutedEventArgs e)
@@ -170,7 +113,7 @@ namespace Admin_project.Pages
             try
             {
                 DB db = new DB();
-                string script = "SELECT * FROM requests";
+                string script = "SELECT * FROM `requests`";
                 db.openConnection();
                 MySqlDataAdapter ms_data = new MySqlDataAdapter(script, db.GetConnection());
                 DataTable Table = new DataTable();
@@ -182,6 +125,25 @@ namespace Admin_project.Pages
             {
                 MessageBox.Show("Connect lost");
             }
+        }
+
+        private void btn_delete_Click(object sender, RoutedEventArgs e)
+        {
+            int id = (int)((DataRowView)dataGrid1.SelectedItem)["id_req"];
+
+            if (id != 0)
+            {
+                DB db = new DB();
+                MySqlCommand command = new MySqlCommand("DELETE FROM `requests` WHERE Id_req =@id", db.GetConnection());
+                command.Parameters.Add("@id", MySqlDbType.VarChar).Value = id;
+                db.openConnection();
+                if (command.ExecuteNonQuery() == 1)
+                    MessageBox.Show("Запись удалена!");
+                else
+                    MessageBox.Show("что то пошло не так!");
+                db.closeConnection();
+            }
+            else MessageBox.Show("В таблице нет этой записи!");
         }
     }
 

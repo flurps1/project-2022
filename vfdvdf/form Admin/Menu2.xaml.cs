@@ -65,5 +65,10 @@ namespace Admin_project
         {
             PagesNavigation.Navigate(new System.Uri("pack://application:,,,/Admin_project;component/Pages/PaymentPage.xaml", UriKind.RelativeOrAbsolute));
         }
+        private void MainWindow_OnMouseDown(object sender, MouseButtonEventArgs e)
+        {
+            if (e.LeftButton == MouseButtonState.Pressed)
+                DragMove();
+        }
     }
 }

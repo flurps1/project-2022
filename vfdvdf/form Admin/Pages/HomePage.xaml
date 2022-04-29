@@ -12,16 +12,18 @@
 
         <StackPanel>
             <Grid Margin="10">
-                <DataGrid Name="dataGrid1" HorizontalAlignment="Left" Width="900" SelectionChanged="DataGrid_SelectionChanged" Loaded="DataGrid_Loaded" Margin="10" Height="450" VerticalAlignment="Top"/>
+                <DataGrid Name="dataGrid1" HorizontalAlignment="Left" Width="900"  Margin="10" Height="450" VerticalAlignment="Top" AutoGenerateColumns="True"/>
             </Grid>
             <StackPanel>
                 <Grid Grid.Column="4">
-                    <Button x:Name="DtnDel" Content="Приянть&#x0a;заявку" HorizontalAlignment="Left" Margin="278,16,0,0" VerticalAlignment="Top" Width="92" Height="47" Click="DtnDel_Click_1" Background="{DynamicResource PrimaryBackgroundColor}" Foreground="{DynamicResource ActionIconColor}" BorderBrush="{DynamicResource PrimaryBlueColor}"/>
-                    <Button x:Name="btn_refresh" Content="Обновить&#x0a;таблицу"  HorizontalAlignment="Left" Margin="400,16,0,0" Width="92" Click="btn_refresh_Click" Height="47" Background="{DynamicResource PrimaryBackgroundColor}" Foreground="{DynamicResource ActionIconColor}" BorderBrush="{DynamicResource PrimaryBlueColor}"/>
-                    <Button x:Name="btn_cancel" Content="Отменить&#x0a;заявку"  HorizontalAlignment="Left" Margin="520,16,0,0" Width="92" Click="btn_cancel_Click" Height="47" Background="{DynamicResource PrimaryBackgroundColor}" Foreground="{DynamicResource ActionIconColor}" BorderBrush="{DynamicResource PrimaryBlueColor}"/>
+                    <Button x:Name="DtnDel" Content="Приянть&#x0a;заявку" HorizontalAlignment="Left" Margin="244,16,0,0" VerticalAlignment="Top" Width="92" Height="47" Click="DtnDel_Click_1" Background="{DynamicResource PrimaryBackgroundColor}" Foreground="{DynamicResource ActionIconColor}" BorderBrush="{DynamicResource PrimaryBlueColor}"/>
+                    <Button x:Name="btn_refresh" Content="Обновить&#x0a;таблицу"  HorizontalAlignment="Left" Margin="366,16,0,0" Width="92" Click="btn_refresh_Click" Height="47" Background="{DynamicResource PrimaryBackgroundColor}" Foreground="{DynamicResource ActionIconColor}" BorderBrush="{DynamicResource PrimaryBlueColor}"/>
+                    <Button x:Name="btn_cancel" Content="Отменить&#x0a;заявку"  HorizontalAlignment="Left" Margin="486,16,0,0" Width="92" Click="btn_cancel_Click" Height="47" Background="{DynamicResource PrimaryBackgroundColor}" Foreground="{DynamicResource ActionIconColor}" BorderBrush="{DynamicResource PrimaryBlueColor}"/>
+                    <Button x:Name="btn_delete" Content="Удалить&#x0a;заявку"  HorizontalAlignment="Left" Margin="606,16,0,0" Width="92" Click="btn_delete_Click" Height="47" Background="{DynamicResource PrimaryBackgroundColor}" Foreground="{DynamicResource ActionIconColor}" BorderBrush="{DynamicResource PrimaryBlueColor}"/>
                 </Grid>
 
             </StackPanel>
+
         </StackPanel>
 
 

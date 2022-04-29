@@ -20,7 +20,7 @@ using System.Data;
 
 namespace UIKitTutorials.Pages
 {
-   
+
     public partial class HomePage : Page
     {
         public HomePage()
@@ -70,41 +70,64 @@ namespace UIKitTutorials.Pages
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
-
+            
             string pc = PcNum.Text;
             string opisanie = new TextRange(richbox1.Document.ContentStart, richbox1.Document.ContentEnd).Text;
+            if (opisanie.Contains("Опишите проблему...")) opisanie = " ";
+            if (opisanie.Contains("Опишите проблему ...")) opisanie = " ";
             string prob = type_prob.Text;
             string cabinet = cab.Text;
             string status = "Не принят";
-
-
-            DB db = new DB();
-            MySqlCommand command = new MySqlCommand("INSERT INTO `requests` (`Pc_num`, `Opisanie`, `Problem`, `cabinet`, `status`) VALUES(@num, @opisanie, @prob, @cab, @status)", db.GetConnection());
-            command.Parameters.Add("@num", MySqlDbType.VarChar ).Value= pc;
-            command.Parameters.Add("@opisanie", MySqlDbType.VarChar ).Value= opisanie;
-            command.Parameters.Add("@prob", MySqlDbType.VarChar ).Value= prob;
-            command.Parameters.Add("@cab", MySqlDbType.VarChar ).Value= cabinet;
-            command.Parameters.Add("@status", MySqlDbType.VarChar ).Value= status;
-
-            db.openConnection();
-            if (command.ExecuteNonQuery() == 1)
-                MessageBox.Show("Запись успешно создана!");
+            if (string.IsNullOrEmpty(pc)|| string.IsNullOrEmpty(prob)|| string.IsNullOrEmpty(cabinet)) MessageBox.Show("Нельзя отправлять пустые значения!");
             else
-                MessageBox.Show("что то пошло не так!");
-            db.closeConnection(); 
+            {
 
-        }
+                DB db = new DB();
+                MySqlCommand command = new MySqlCommand("INSERT INTO `requests` (`Pc_num`, `Opisanie`, `Problem`, `cabinet`, `status`) VALUES(@num, @opisanie, @prob, @cab, @status)", db.GetConnection());
+                command.Parameters.Add("@num", MySqlDbType.VarChar).Value = pc;
+                command.Parameters.Add("@opisanie", MySqlDbType.VarChar).Value = opisanie;
+                command.Parameters.Add("@prob", MySqlDbType.VarChar).Value = prob;
+                command.Parameters.Add("@cab", MySqlDbType.VarChar).Value = cabinet;
+                command.Parameters.Add("@status", MySqlDbType.VarChar).Value = status;
 
-        private void PcNum_TextInput(object sender, TextCompositionEventArgs e)
-        {
-            
+                db.openConnection();
+                if (command.ExecuteNonQuery() == 1)
+                    MessageBox.Show("Запись успешно создана!");
+                else
+                    MessageBox.Show("что то пошло не так!");
+                db.closeConnection();
+            }
         }
 
         private void PcNum_PreviewTextInput(object sender, TextCompositionEventArgs e)
         {
+
             TextBox ctrl = sender as TextBox;
             e.Handled = "0123456789".IndexOf(e.Text) < 0;//только цифры
-            ctrl.MaxLength = 2;//длина текста в текстбоксе
+            ctrl.MaxLength = 2;//длина текста в текстбоксеэ
+
         }
-    }
+
+        private void richbox1_PreviewTextInput(object sender, TextCompositionEventArgs e)
+        {
+            RichTextBox ctrl = sender as RichTextBox;
+
+        }
+
+        private void richbox1_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            TextRange textRange = new TextRange(richbox1.Document.ContentStart, richbox1.Document.ContentEnd);
+            var text = textRange.Text.Trim();
+
+            if (text.Length > 100)
+            {
+                int gap = 0;
+                while (richbox1.CaretPosition.DeleteTextInRun(-1) == 0)
+                {
+                    richbox1.CaretPosition = richbox1.CaretPosition.GetPositionAtOffset(--gap);
+                }
+
+            }
+        }
+    }    
 }

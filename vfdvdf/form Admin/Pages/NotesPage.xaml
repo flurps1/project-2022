@@ -5,10 +5,22 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:Admin_project.Pages"
       mc:Ignorable="d" 
-      d:DesignHeight="450" d:DesignWidth="800"
-      Title="NotesPage">
+      d:DesignHeight="580" d:DesignWidth="920"
+      Title="NotesPage" Loaded="Page_Loaded">
 
     <Border CornerRadius="5" Background="{DynamicResource SecundaryBackgroundColor}">
-        <Label Content="Notes" Foreground="Black" FontSize="50" FontWeight="Bold" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <StackPanel>
+            <Grid Margin="10">
+                <DataGrid Name="dataGrid_history" HorizontalAlignment="Left" Width="900"  Margin="10" Height="450" VerticalAlignment="Top" AutoGenerateColumns="True"/>
+            </Grid>
+            <StackPanel>
+                <Grid Grid.Column="4">
+                    <Button x:Name="btn_refresh" Content="Обновить&#x0a;таблицу"  HorizontalAlignment="Left" Margin="381,16,0,0" Width="92" Click="btn_refresh_Click" Height="47" Background="{DynamicResource PrimaryBackgroundColor}" Foreground="{DynamicResource ActionIconColor}" BorderBrush="{DynamicResource PrimaryBlueColor}" RenderTransformOrigin="-0.205,0.708"/>
+                    <Button x:Name="btn_delete" Content="Удалить&#x0a;заявку"  HorizontalAlignment="Left" Margin="506,16,0,0" Width="92" Click="btn_delete_Click" Height="47" Background="{DynamicResource PrimaryBackgroundColor}" Foreground="{DynamicResource ActionIconColor}" BorderBrush="{DynamicResource PrimaryBlueColor}"/>
+                </Grid>
+
+            </StackPanel>
+
+        </StackPanel>
     </Border>
 </Page>

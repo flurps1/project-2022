@@ -62,5 +62,10 @@ namespace UIKitTutorials
         {
             PagesNavigation.Navigate(new System.Uri("pack://application:,,,/UIKitTutorials;component/Pages/PaymentPage.xaml", UriKind.RelativeOrAbsolute));
         }
+        private void MainWindow_OnMouseDown(object sender, MouseButtonEventArgs e)
+        {
+            if (e.LeftButton == MouseButtonState.Pressed)
+                DragMove();
+        }
     }
 }

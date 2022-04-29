@@ -33,37 +33,6 @@ namespace CleanUI
             WindowState = WindowState.Minimized;
         }
 
-        private void TextBox_MouseEnter(object sender, MouseEventArgs e)
-        {
-            if (loginuser.Text == "login")
-            {
-                loginuser.Text = "";
-            }
-        }
-
-        private void TextBox_MouseLeave(object sender, MouseEventArgs e)
-        {
-            if (loginuser.Text == "")
-            {
-                loginuser.Text = "login";
-            }
-        }
-
-        private void txtPass_MouseEnter(object sender, MouseEventArgs e)
-        {
-            if (txtPass.Password == "Password")
-            {
-                txtPass.Password = "";
-            }
-        }
-
-        private void txtPass_MouseLeave(object sender, MouseEventArgs e)
-        {
-            if (txtPass.Password == "")
-            {
-                txtPass.Password = "Password";
-            }
-        }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
@@ -128,22 +97,48 @@ namespace CleanUI
 
         private void loginuser_GotFocus(object sender, RoutedEventArgs e)
         {
-
+            if (loginuser.Text == "login")
+            {
+                loginuser.Text = "";
+            }
         }
 
         private void loginuser_LostFocus(object sender, RoutedEventArgs e)
         {
-
+            if (loginuser.Text == "")
+            {
+                loginuser.Text = "login";
+            }
         }
 
         private void txtPass_GotFocus(object sender, RoutedEventArgs e)
         {
-
+            if (txtPass.Password == "Password")
+            {
+                txtPass.Password = "";
+            }
         }
 
         private void txtPass_LostFocus(object sender, RoutedEventArgs e)
         {
+            if (txtPass.Password == "")
+            {
+                txtPass.Password = "Password";
+            }
+        }
 
+        private void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                DB db = new DB();
+                db.openConnection();
+                db.closeConnection();
+            }
+            catch
+            {
+                MessageBox.Show("Отсутствует подключение к базе данных!");
+            }
         }
     }
 }
