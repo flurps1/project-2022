@@ -128,7 +128,6 @@ F:\git\project-2022\vfdvdf\login\CleanUI\CleanUI\bin\Debug\System.Buffers.xml
 F:\git\project-2022\vfdvdf\login\CleanUI\CleanUI\bin\Debug\System.Memory.xml
 F:\git\project-2022\vfdvdf\login\CleanUI\CleanUI\bin\Debug\System.Numerics.Vectors.xml
 F:\git\project-2022\vfdvdf\login\CleanUI\CleanUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-F:\git\project-2022\vfdvdf\login\CleanUI\CleanUI\obj\Debug\CleanUI.csprojAssemblyReference.cache
 F:\git\project-2022\vfdvdf\login\CleanUI\CleanUI\obj\Debug\AuthorizationWindow.g.cs
 F:\git\project-2022\vfdvdf\login\CleanUI\CleanUI\obj\Debug\App.g.cs
 F:\git\project-2022\vfdvdf\login\CleanUI\CleanUI\obj\Debug\CleanUI_MarkupCompile.cache
@@ -244,3 +243,4 @@ C:\Users\Maxim\Desktop\vfdvdf\login\CleanUI\CleanUI\obj\Debug\CleanUI.csproj.Cor
 C:\Users\Maxim\Desktop\vfdvdf\login\CleanUI\CleanUI\obj\Debug\CleanUI.csproj.CopyComplete
 C:\Users\Maxim\Desktop\vfdvdf\login\CleanUI\CleanUI\obj\Debug\CleanUI.exe
 C:\Users\Maxim\Desktop\vfdvdf\login\CleanUI\CleanUI\obj\Debug\CleanUI.pdb
+F:\git\project-2022\vfdvdf\login\CleanUI\CleanUI\obj\Debug\CleanUI.csproj.AssemblyReference.cache

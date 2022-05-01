@@ -36,63 +36,75 @@ namespace CleanUI
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-           
-            string loginField = loginuser.Text;
-            string passField = txtPass.Password;
-            string AdminAccess = "no";
-
-            DB db = new DB();
-            DataTable table = new DataTable();
-            MySqlDataAdapter adapter = new MySqlDataAdapter();
-            MySqlCommand command = new MySqlCommand("SELECT * FROM `login` WHERE `Login` = @LoginUser AND `Password` = @PassUser AND `Admin_Access`= @Ac", db.GetConnection());
-            command.Parameters.Add("@LoginUser", MySqlDbType.VarChar).Value = loginField;
-            command.Parameters.Add("@PassUser", MySqlDbType.VarChar).Value = passField;
-            command.Parameters.Add("@Ac", MySqlDbType.VarChar).Value = AdminAccess;
-
-            adapter.SelectCommand = command;
-            adapter.Fill(table);
-
-            if (table.Rows.Count > 0)
+            try
             {
-                MessageBox.Show("Вы Успешно вошли");
+                string loginField = loginuser.Text;
+                string passField = txtPass.Password;
+                string AdminAccess = "no";
 
-                MainWindow newWindow = new MainWindow();
-                newWindow.Show();
-                Close();
+                DB db = new DB();
+                DataTable table = new DataTable();
+                MySqlDataAdapter adapter = new MySqlDataAdapter();
+                MySqlCommand command = new MySqlCommand("SELECT * FROM `login` WHERE `Login` = @LoginUser AND `Password` = @PassUser AND `Admin_Access`= @Ac", db.GetConnection());
+                command.Parameters.Add("@LoginUser", MySqlDbType.VarChar).Value = loginField;
+                command.Parameters.Add("@PassUser", MySqlDbType.VarChar).Value = passField;
+                command.Parameters.Add("@Ac", MySqlDbType.VarChar).Value = AdminAccess;
+
+                adapter.SelectCommand = command;
+                adapter.Fill(table);
+
+                if (table.Rows.Count > 0)
+                {
+                    MessageBox.Show("Вы Успешно вошли");
+
+                    MainWindow newWindow = new MainWindow();
+                    newWindow.Show();
+                    Close();
+                }
+                else
+                    MessageBox.Show("Что то пошло не так! проверьте логин или пароль.");
             }
-            else
-                MessageBox.Show("Что то пошло не так! проверьте логин или пароль.");
-           
+            catch
+            {
+                MessageBox.Show("Что то пошло не так!");
+            }
         }
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
-            string loginField = loginuser.Text;
-            string passField = txtPass.Password;
-            string AdminAccess = "yes";
-
-            DB db = new DB();
-            DataTable table = new DataTable();
-            MySqlDataAdapter adapter = new MySqlDataAdapter();
-            MySqlCommand command = new MySqlCommand("SELECT * FROM `login` WHERE `Login` = @LoginUser AND `Password` = @PassUser AND `Admin_Access`= @Ac", db.GetConnection());
-            command.Parameters.Add("@LoginUser", MySqlDbType.VarChar).Value = loginField;
-            command.Parameters.Add("@PassUser", MySqlDbType.VarChar).Value = passField;
-            command.Parameters.Add("@Ac", MySqlDbType.VarChar).Value = AdminAccess;
-
-
-            adapter.SelectCommand = command;
-            adapter.Fill(table);
-
-            if (table.Rows.Count > 0)
+            try
             {
-                MessageBox.Show("Вы Успешно вошли");
+                string loginField = loginuser.Text;
+                string passField = txtPass.Password;
+                string AdminAccess = "yes";
 
-                Menu2 newWindow2 = new Menu2();
-                newWindow2.Show();
-                Close();
+                DB db = new DB();
+                DataTable table = new DataTable();
+                MySqlDataAdapter adapter = new MySqlDataAdapter();
+                MySqlCommand command = new MySqlCommand("SELECT * FROM `login` WHERE `Login` = @LoginUser AND `Password` = @PassUser AND `Admin_Access`= @Ac", db.GetConnection());
+                command.Parameters.Add("@LoginUser", MySqlDbType.VarChar).Value = loginField;
+                command.Parameters.Add("@PassUser", MySqlDbType.VarChar).Value = passField;
+                command.Parameters.Add("@Ac", MySqlDbType.VarChar).Value = AdminAccess;
+
+
+                adapter.SelectCommand = command;
+                adapter.Fill(table);
+
+                if (table.Rows.Count > 0)
+                {
+                    MessageBox.Show("Вы Успешно вошли");
+
+                    Menu2 newWindow2 = new Menu2();
+                    newWindow2.Show();
+                    Close();
+                }
+                else
+                    MessageBox.Show("Что то пошло не так! проверьте логин или пароль.");
             }
-            else
-                MessageBox.Show("Что то пошло не так! проверьте логин или пароль.");
+            catch
+            {
+                MessageBox.Show("Что то пошло не так!");
+            }
         }
 
         private void loginuser_GotFocus(object sender, RoutedEventArgs e)

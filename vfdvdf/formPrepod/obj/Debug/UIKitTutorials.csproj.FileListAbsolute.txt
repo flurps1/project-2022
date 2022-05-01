@@ -207,7 +207,6 @@ F:\git\project-2022\vfdvdf\formPrepod\bin\Debug\System.Buffers.xml
 F:\git\project-2022\vfdvdf\formPrepod\bin\Debug\System.Memory.xml
 F:\git\project-2022\vfdvdf\formPrepod\bin\Debug\System.Numerics.Vectors.xml
 F:\git\project-2022\vfdvdf\formPrepod\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-F:\git\project-2022\vfdvdf\formPrepod\obj\Debug\UIKitTutorials.csprojAssemblyReference.cache
 F:\git\project-2022\vfdvdf\formPrepod\obj\Debug\MainWindow.g.cs
 F:\git\project-2022\vfdvdf\formPrepod\obj\Debug\Pages\HomePage.g.cs
 F:\git\project-2022\vfdvdf\formPrepod\obj\Debug\Pages\NotesPage.g.cs
@@ -331,3 +330,4 @@ C:\Users\Maxim\Desktop\vfdvdf\formPrepod\obj\Debug\UIKitTutorials.csproj.CoreCom
 C:\Users\Maxim\Desktop\vfdvdf\formPrepod\obj\Debug\UIKitTutorials.csproj.CopyComplete
 C:\Users\Maxim\Desktop\vfdvdf\formPrepod\obj\Debug\UIKitTutorials.exe
 C:\Users\Maxim\Desktop\vfdvdf\formPrepod\obj\Debug\UIKitTutorials.pdb
+F:\git\project-2022\vfdvdf\formPrepod\obj\Debug\UIKitTutorials.csproj.AssemblyReference.cache

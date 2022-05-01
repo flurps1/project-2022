@@ -54,7 +54,6 @@ F:\git\project-2022\vfdvdf\form Admin\bin\Debug\K4os.Compression.LZ4.dll
 F:\git\project-2022\vfdvdf\form Admin\bin\Debug\K4os.Hash.xxHash.dll
 F:\git\project-2022\vfdvdf\form Admin\bin\Debug\System.Numerics.Vectors.dll
 F:\git\project-2022\vfdvdf\form Admin\bin\Debug\MySql.Data.xml
-F:\git\project-2022\vfdvdf\form Admin\obj\Debug\Admin_project.csprojAssemblyReference.cache
 F:\git\project-2022\vfdvdf\form Admin\obj\Debug\Admin_project.exe.config
 F:\git\project-2022\vfdvdf\form Admin\obj\Debug\Menu2.g.cs
 F:\git\project-2022\vfdvdf\form Admin\obj\Debug\Pages\HomePage.g.cs
@@ -160,3 +159,4 @@ C:\Users\Maxim\Desktop\vfdvdf\form Admin\obj\Debug\Admin_project.csproj.CoreComp
 C:\Users\Maxim\Desktop\vfdvdf\form Admin\obj\Debug\Admin_project.csproj.CopyComplete
 C:\Users\Maxim\Desktop\vfdvdf\form Admin\obj\Debug\Admin_project.exe
 C:\Users\Maxim\Desktop\vfdvdf\form Admin\obj\Debug\Admin_project.pdb
+F:\git\project-2022\vfdvdf\form Admin\obj\Debug\Admin_project.csproj.AssemblyReference.cache
