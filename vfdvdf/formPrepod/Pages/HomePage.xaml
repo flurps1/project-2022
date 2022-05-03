@@ -27,12 +27,16 @@
             <Label x:Name="label_PcNum" Content="Номер ПК" Height="30" Margin="143,10,142,0" VerticalAlignment="Top" />
             <Label x:Name="label_cab" Content="Кабинет" Height="30" Margin="143,10,142,0" VerticalAlignment="Top" Grid.Row="1"/>
             <TextBox x:Name="PcNum" Height="30" VerticalAlignment="Top" TextWrapping="Wrap" Grid.Column="1" Margin="40,10,141,0"  PreviewTextInput="PcNum_PreviewTextInput"/>
+            
             <ComboBox x:Name="cab" Grid.Column="1" HorizontalAlignment="Left" Height="30" Margin="40,10,0,0" Grid.Row="1"  VerticalAlignment="Top" Width="184" >
                 <TextBlock></TextBlock>
                 <TextBlock>103</TextBlock>
                 <TextBlock>210</TextBlock>
                 <TextBlock>211</TextBlock>
+                <TextBlock>111</TextBlock>
+                <TextBlock>108</TextBlock>
             </ComboBox>
+            
             <RichTextBox x:Name="richbox1" Grid.ColumnSpan="2" HorizontalAlignment="Left" Foreground="Gray" Height="101" Margin="143,10,0,0" Grid.Row="3" VerticalAlignment="Top" Width="446" MouseEnter="richbox1_MouseEnter" MouseLeave="richbox1_MouseLeave" GotFocus="richbox1_GotFocus" LostFocus="richbox1_LostFocus" PreviewTextInput="richbox1_PreviewTextInput" TextChanged="richbox1_TextChanged">
                 <FlowDocument>
                     <Paragraph>
@@ -47,6 +51,8 @@
                 <TextBlock></TextBlock>
                 <TextBlock>Не запускается</TextBlock>
                 <TextBlock>Не заходит в учетную запись</TextBlock>
+                <TextBlock>Не работают диски</TextBlock>
+                <TextBlock>Нету интернета</TextBlock>
             </ComboBox>
 
 

@@ -34,7 +34,7 @@
                            FontWeight="Light"
                            FontFamily="helvetica"
                            FontSize="18"
-                           Foreground="White"
+                           Foreground="Black"
                            HorizontalAlignment="Center"/>
             </StackPanel>
             <StackPanel Grid.Row="1" >
