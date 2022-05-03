@@ -55,11 +55,11 @@
                         <Grid>
                             <StackPanel>
                                 <TextBlock/>
-                                <TextBlock Text="Не включается&#xA;компьютер"
+                                <TextBlock Text="Не видны&#xA;диски"
                                        Foreground="black"
                                        FontSize="18"
                                        Margin="20,10, 10,0" Height="66"/>
-                                <TextBlock Text="Проверьте включено&#xA;ли питание!"
+                                <TextBlock Text="Проверьте подключен&#xA;ли кабель!"
                                        Foreground="black"
                                        FontSize="13"
                                        Margin="20,10, 10,0"/>
@@ -74,12 +74,12 @@
                         <Grid>
                             <StackPanel>
                                 <TextBlock/>
-                                <TextBlock Text="Возможно мы&#x0a;уже знаем что делать!"
+                                <TextBlock Text="Не работает интернет!"
                                        Foreground="black"
                                        FontSize="22"
                                        Margin="20,10, 10,0" Height="66">
                                 </TextBlock>
-                                <TextBlock Text="Прочтите раздел FAQ."
+                                <TextBlock Text="Интернет не доступен студентам,&#x0a;доступ выдаётся при обращении."
                                        Foreground="black"
                                        FontSize="15"
                                        Margin="20,10, 10,0">
@@ -93,12 +93,12 @@
                         <Grid>
                             <StackPanel Margin="0,0,-0.2,0">
                                 <TextBlock/>
-                                <TextBlock Text="Не включается&#x0a;компьютер"
+                                <TextBlock Text="Не активирована&#x0a;Visual Studio"
                                        Foreground="black"
                                        FontSize="18"
                                        Margin="20,10, 10,0" Height="66">
                                 </TextBlock>
-                                <TextBlock Text="Проверьте включено&#x0a;ли питание!"
+                                <TextBlock Text="Ключ лежит&#x0a;на диске !"
                                        Foreground="black"
                                        FontSize="13"
                                        Margin="20,10, 10,0">
@@ -112,12 +112,12 @@
                         <Grid>
                             <StackPanel Margin="0,0,-19,0">
                                 <TextBlock/>
-                                <TextBlock Text="Не включается&#x0a;компьютер"
+                                <TextBlock Text="Устарел пароль&#x0a;"
                                        Foreground="black"
                                        FontSize="18"
                                        Margin="20,10, 10,0" Height="66">
                                 </TextBlock>
-                                <TextBlock Text="Проверьте включено&#x0a;ли питание!"
+                                <TextBlock Text="Нужно самостоятельно &#x0a;обратиться к сис админам!"
                                        Foreground="black"
                                        FontSize="13"
                                        Margin="20,10, 10,0">
